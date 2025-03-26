@@ -42,8 +42,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HBLazerr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HBLazerr&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
 ###
