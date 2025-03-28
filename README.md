@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a full-stack developer from Arizona.<br><br>- 🛰 I've designed and developed desktop, web, and mobile applications.<br>- 🧪 I’m working on collaboration projects to network between school and friends.<br>- 🔭 I'm currently learning React Native and soon AJAX.<br>- ⚡ In my free time I go to the gym and play video games.</p>
+<p align="left">I'm a full-stack developer from Arizona.<br><br>- 🛰 I've designed and developed desktop, web, and mobile applications.<br>- 🧪 I’m working on collaboration projects to network between school and friends.<br>- 🔭 I'm currently learning React Native and soon AJAX.<br>- ⚡ In my free time, I go to the gym and play video games.</p>
 
 ###
 
